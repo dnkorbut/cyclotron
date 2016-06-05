@@ -1,2 +1,11 @@
-var c;
-while(1) {c++; if (c > 1000000000) {return console.log('You are a great idiot');};}
+window.onload = function() {
+	var c = 0;
+	while(1) {
+		c++;
+		if(c < 9000) {
+			alert('You are a great idiot No ' + c);
+		}else{
+			break;
+		}
+	}
+};
