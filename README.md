@@ -1,1 +1,2 @@
 # cyclotron
+This project aims to bring free programming testpad to everyone. I started this to learn git. You are welcome to commit or fork or do everything you want. I hope this will be the best project in universe since we will find the cyclortones ;) I belive in them.
